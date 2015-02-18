@@ -1,0 +1,19 @@
+{
+  "name": "plaidbot",
+  "version": "0.0.0",
+  "private": true,
+  "author": "pietvanzoen <pietvanzoen@gmail.com>",
+  "description": "A bot of our own making.",
+  "dependencies": {
+    "hubot": "^2.11.1",
+    "hubot-diagnostics": "0.0.1",
+    "hubot-help": "^0.1.1",
+    "hubot-heroku-keepalive": "0.0.4",
+    "hubot-redis-brain": "0.0.2",
+    "hubot-rules": "^0.1.0",
+    "hubot-slack": "^3.2.1"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}
