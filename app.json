@@ -1,0 +1,8 @@
+{
+  "plaidbot": {
+    "provider": "heroku",
+    "auto_merge": false,
+    "repository": "pietvanzoen/plaidbot",
+    "heroku_name": "plaidbot"
+  }
+}
